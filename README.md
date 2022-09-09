@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZaneExe
-- 👀 I’m interested in coding, hockey and volleyball.
-- 🌱 I’m currently learning javascript and typescript.
-- 📫 How to reach me: I have a discord, where DMs are sometimes open: zane.#4070
+- 👀 I’m interested in coding, hockey, and volleyball.
+- 🌱 I’m a JavaScript devloper, mainly working with Micraft sided clients and APIs.
+- 📫 How to reach me: I have a discord, where DMs are sometimes open: zane.#2075
